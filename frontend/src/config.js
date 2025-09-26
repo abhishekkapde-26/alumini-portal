@@ -1,1 +1,0 @@
-export const API_URL = "https://alumini-portal-kced.onrender.com";
